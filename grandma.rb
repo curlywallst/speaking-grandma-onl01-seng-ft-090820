@@ -17,7 +17,7 @@ def speak_to_grandma(x)
     
     y = "Nancy"
     y
-  elsif
+  else
     "Bob"
   end
 end
