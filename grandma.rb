@@ -13,11 +13,11 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 def speak_to_grandma(x)
   if x == "Hi"
-    "HUH?! SPEAK UP, SONNY!"
+    return "HUH?! SPEAK UP, SONNY!"
     
     y = "Nancy"
     y
-  else
-    "Bob"
+
   end
+      "Bob"
 end
