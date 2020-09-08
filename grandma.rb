@@ -15,6 +15,5 @@ def speak_to_grandma(x)
 #   if string == "Hi"
 #     "HUH?! SPEAK UP, SONNY!"
 
-#  
-end
+#  end
 end
