@@ -14,6 +14,6 @@
 def speak_to_grandma(string)
   if string == "Hi!"
     "HUH?! SPEAK UP, SONNY!"
-    "Nancy"
+
   end
 end
