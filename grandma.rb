@@ -15,7 +15,7 @@ def speak_to_grandma(x)
   if x == "Hi"
     "HUH?! SPEAK UP, SONNY!"
     
-  y = "Nancy"
-  y
+    y = "Nancy"
+    y
   end
 end
